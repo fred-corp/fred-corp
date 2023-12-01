@@ -2,14 +2,14 @@
 
 Never stop the jankyness!
 
-## whois fred-corp
+## ```neofetch --person fred-corp```
 
 ```text
                           .                    
                  --=++*+====:.                 fredericdruppel@earth 
                  #%%*%%#%%**+=-=:              --------------------------------- 
              *=+%#--=+=+++**%*:*::             OS        : humanOS 1.0.2
-           #=%%=::.:...::::---=#=*-.           Host      : Homo Sapiens²
+           #=%%=::.:...::::---=#=*-.           Host      : Homo Sapiens² ♂
           :#%@::.:... ........  +##-           Kernel    : 20.01
          =%%@-:... ............. *%**          Uptime    : 23 years
          -###:...:.. ....::..::. .##%          DoB       : 948389527
@@ -39,11 +39,27 @@ Never stop the jankyness!
 .---= : * . %#+=***=-*%****=*=     *-=-=+*..-.=
 ```
 
+> Grab my info with wget !  
+> ```wget whois.fredcorp.cc```
+
+## Tools
+
+Curious about what tools I use ? check out the [tools](https://fredcorp.cc/tools) section of my [website](https://fredcorp.cc) !
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fred-corp&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="32%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fred-corp&theme=dark&hide_border=false" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fred-corp&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="25%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fred-corp&theme=merko&no-frame=false&no-bg=false&margin-w=4&rank=-C" width="786">
+</p>
+
 ## License & Acknowledgements
 
+Thanks to [ClaraCrazy](https://github.com/ClaraCrazy/) for the idea of the github stats of this README !
+
 Made with ❤️, lots of ☕️, and lack of 🛌
-
-Published under CreativeCommons BY-SA 4.0
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
