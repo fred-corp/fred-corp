@@ -1,21 +1,31 @@
-name: update gist
+name: Frequent Language gist
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "6 * * * *"
   workflow_dispatch:
 
 jobs:
   run:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v3
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          repository: inokawa/lang-box
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v3
         with:
-          node-version: "lts/*"
-          cache: "npm"
+          node-version: "16.x"
+
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
 
       - run: sudo apt-get update
       - run: sudo apt-get install cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev
