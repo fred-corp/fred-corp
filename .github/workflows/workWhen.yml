@@ -3,11 +3,14 @@ on:
   repository_dispatch:
     types: [build-event]
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/10 * * * *"
 jobs:
   update-gist:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
       - name: Update gist
         uses: maxam2017/productive-box@master
         env:
