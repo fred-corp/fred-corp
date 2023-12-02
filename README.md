@@ -58,8 +58,9 @@ Curious about what tools I use ? check out the [tools](https://fredcorp.cc/tools
   <img src="https://github-profile-trophy.vercel.app/?username=fred-corp&theme=onestar&no-frame=false&no-bg=false&margin-w=4&rank=-C" width="786">
 </p>
 
-## License & Acknowledgements
+## Acknowledgements
 
-Thanks to [ClaraCrazy](https://github.com/ClaraCrazy/) for the idea of the github stats of this README !
+Thanks to [ClaraCrazy](https://github.com/ClaraCrazy/) for the idea of the github stats of this README !  
+ASCII art converted from an image on [asciiart.eu](https://www.asciiart.eu/image-to-ascii)
 
 Made with ❤️, lots of ☕️, and lack of 🛌
