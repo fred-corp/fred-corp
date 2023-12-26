@@ -6,8 +6,8 @@ Never stop the jankyness!
 
 ```text
                           .                    
-                 --=++*+====:.                 fredericdruppel@earth 
-                 #%%*%%#%%**+=-=:              --------------------------------- 
+                 --=++*+====:.                 fredericdruppel@earth
+                 #%%*%%#%%**+=-=:              ---------------------------------
              *=+%#--=+=+++**%*:*::             OS        : humanOS 1.0.2
            #=%%=::.:...::::---=#=*-.           Host      : Homo Sapiens² ♂
           :#%@::.:... ........  +##-           Kernel    : 20.01
@@ -55,7 +55,7 @@ Curious about what tools I use ? check out the [tools](https://fredcorp.cc/tools
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fred-corp&theme=onestar&no-frame=false&no-bg=false&margin-w=4&rank=-C" width="786">
+  <img src="https://github-profile-trophy.vercel.app/?username=fred-corp&theme=onestar" width="786">
 </p>
 
 ## Acknowledgements
