@@ -1,6 +1,6 @@
 # fred-corp
 
-Never stop the jankyness!
+*Never stop the jankyness!*
 
 ## ```neofetch --person fred-corp```
 
