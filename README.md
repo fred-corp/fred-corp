@@ -39,7 +39,7 @@
 .---= : * . %#+=***=-*%****=*=     *-=-=+*..-.=
 ```
 
-> Grab my info with wget !  
+> Grab my info with wget ! (JSON formatted)  
 > ```wget whois.fredcorp.cc```
 
 ## Tools
